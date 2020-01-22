@@ -2,10 +2,12 @@
 <html>
   <head> <title> about cat</title>
          <meta charset="utf-8"></head>
-  <body><h1><strong>내가 좋아하는 고양이들</strong></h1>
-    <h3><ol><a href="https://m.post.naver.com/viewer/postView.nhn?volumeNo=16503105&memberNo=38745547&vType=VERTICAL" title="서강대 레오">Leo</ol>
+  <body>
+    <h1><strong>내가 좋아하는 고양이들</strong></h1>
+    <h3>
+      <ol><a href="https://m.post.naver.com/viewer/postView.nhn?volumeNo=16503105&memberNo=38745547&vType=VERTICAL" title="서강대 레오">Leo</ol>
       <ol><a href="https://blog.naver.com/kangny4730/221103356048 title="디디고양이">DD</ol>
-        <ol>LuLu</ol>
+      <ol>LuLu</ol>
       <img src="LuLu0.jpg" ><br><br>
       <P>고양이들은 야성적이고도 매력적인 외모에도 불구하고 나에게는 낯선 존재였다.
          그러나 언젠가부터 그들의 행동의 이유에 대해 알게되면서 이해하게 되고 낯설거나 두려움은 서서히 가시게 되었다.<br>
